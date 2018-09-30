@@ -22,7 +22,7 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 
 ## Leaflet.js and Mapbox:
 
-This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information. 
+This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). You need to replace `<pk.eyJ1IjoibWVyY2FuZGVuaXpjaSIsImEiOiJjam1wMmMxNGgwMm91M3BsOGtxc2h1ZWg2In0.GRNvA7dYMuJvFqlajrqDCA>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information. 
 
 ### Note about ES6
 
